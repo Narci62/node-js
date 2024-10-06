@@ -14,4 +14,4 @@ jobs:
         server: ftp.trueline-system.com
         username: devttls@trueline-system.com
         password: Aodm@ttl24
-        path: /deploy
+        path: /deploy/
